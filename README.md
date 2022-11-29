@@ -19,6 +19,11 @@ Here is the list of required components and tools. The list is simple, and all y
 Double-click the third icon to open portainer, you can customize various services with docker. For a personal office environment like my usual use, see the videos below.
 
 ## Enjoy yourself
+![Basic](https://github.com/Torah/RaspNas-from-Wang/blob/main/basic.gif "basic setup")
+![3DView](https://github.com/Torah/RaspNas-from-Wang/blob/main/3D%20Viewer.gif "thingiverse")
+![Basic](https://github.com/Torah/RaspNas-from-Wang/blob/main/Game.gif "basic setup")
+
 
 ## Other boards may support
 We list as much boards as possible which may Compatible with this RaspNas OS Image. It means you can reuse the boards you already have but in idle. Join us with Wechat
+![WeChat](https://github.com/Torah/RaspNas-from-Wang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129185331.jpg "WeChat")
