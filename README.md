@@ -21,4 +21,4 @@ Double-click the third icon to open portainer, you can customize various service
 ## Enjoy yourself
 
 ## Other boards may support
-We list as much boards as possible which may Compatible with this RaspNas OS Image. It means you can reuse the boards you already have but in idle. Join us with 
+We list as much boards as possible which may Compatible with this RaspNas OS Image. It means you can reuse the boards you already have but in idle. Join us with Wechat
