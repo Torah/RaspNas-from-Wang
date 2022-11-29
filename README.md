@@ -22,8 +22,8 @@ Double-click the third icon to open portainer, you can customize various service
 ## Enjoy yourself
 ![Basic](https://github.com/Torah/RaspNas-from-Wang/blob/main/basic.gif "basic setup")
 ![3DView](https://github.com/Torah/RaspNas-from-Wang/blob/main/3D%20Viewer.gif "thingiverse")
-![Basic](https://github.com/Torah/RaspNas-from-Wang/blob/main/Game.gif "basic setup")
-
+![Games](https://github.com/Torah/RaspNas-from-Wang/blob/main/Game.gif "basic setup")
+[![A Video]({https://github.com/Torah/RaspNas-from-Wang/blob/main/Game.gif})]({https://github.com/Torah/RaspNas-from-Wang/blob/main/Game.mp4} "Games")
 
 ## Other boards may support
 We list as much boards as possible which may Compatible with this RaspNas OS Image. It means you can reuse the boards you already have but in idle. Join us with Wechat
