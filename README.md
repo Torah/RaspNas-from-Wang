@@ -2,7 +2,8 @@
 RaspNas OS Collect and Made by Wang, can be burned and run on Raspberry Pi 2B+, 3B+, 4B and OrangePi
 
 ### Make Synology-like but more portable NAS with Raspberry Pi, Orange Pi or etc.
-The Raspberry Pi is a low-power consumption device that is naturally suitable as the main control board of a NAS. If it has a GPU, then services based on vision processing algorithms will be easier to set up. Today's tutorial I will show you how to build a Raspberry Pi NAS using my designation of RaspNasPCB, which is easier and more succinct than quad sata hat.
+The Raspberry Pi is a low-power consumption device that is naturally suitable as the main control board of a NAS. If it has a GPU, then services based on vision processing algorithms will be easier to set up. Today's tutorial I will show you how to build a Raspberry Pi NAS using my designation of RaspNasPCB, which is easier and more succinct than quad sata hat. A baffle of GOT added only for decoration. ^-^
+![Basic](https://github.com/Torah/RaspNas-from-Wang/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221129185520.jpg "basic setup")
 
 ## Materials
 Here is the list of required components and tools. The list is simple, and all you need is
